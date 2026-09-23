@@ -151,3 +151,31 @@ button {
   font-family:"Space Mono" monospace;
   margin:0 auto;
 }
+
+/* 
+
+ABOUT,SOCIAL
+
+ */
+
+
+ #about,
+ #social {
+  padding: 24px 0;
+  width:100%;
+  max-width:1200px;
+  margin: 0 auto;
+ }
+
+ .section__card {
+  border:1.5px dashed #cbd5e1;
+  padding:40px 20px;
+  width:100%;
+  max-width:12000px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+
+
+
+ }
